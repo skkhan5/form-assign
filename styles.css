@@ -1,0 +1,102 @@
+/* body{
+    margin: 0px;
+} */
+#dropdown{
+    width: 120px;
+    height: 600;
+}
+.input{
+    width: 400px;
+    height: 50px;
+    margin-top: 7px;
+    border: solid 1px greenyellow;
+    
+}
+
+#label{
+    /* padding-right:430px; */
+    font-size: medium;
+    font-weight: bold;
+    color: #29b6e2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.div0{
+    display: flex;
+    justify-content: space-evenly;
+      /* gap: 58px; */
+    
+}
+.div01{
+    display: flex;
+    justify-content: space-evenly;
+    
+
+    
+}
+
+.div02{
+        
+    display: flex;
+    justify-content:space-around;
+      /* gap: 95px;    */
+}
+.div03{
+        
+    display: flex;
+    justify-content:space-around;
+    /* gap: 95px;    */
+}
+.div04{
+        
+    display: flex;
+    justify-content:space-around;
+    /* gap: 95px;    */
+}
+.div05{
+        align-items: center;
+        width: 800px;
+        justify-content: center;
+    /* gap: 95px;    */
+    margin-left: 98px;
+}
+.div06{
+    align-items: center;
+    width: 800px;
+    justify-content: center;
+/* gap: 95px;    */
+margin-left: 98px;
+}
+.div07{
+    align-items: center;
+    width: 800px;
+    justify-content: center;
+/* gap: 95px;    */
+margin-left: 98px;
+}
+
+
+
+
+#input1{
+    width: 1000px;
+}
+#input{
+    height: 200px;
+
+}
+.ol li {
+   align-items: center;
+    font-size: small;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn{
+  justify-content: center;
+  width: 800px;
+  height: 50px;
+  background-color: rgb(65, 172, 230);
+  border: solid 1px greenyellow;
+
+}
